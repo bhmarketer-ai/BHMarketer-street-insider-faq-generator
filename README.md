@@ -1,6 +1,7 @@
 # BHMarketer.ai: Street Insider FAQ Generator 📰🔎
 
 [![npm](https://img.shields.io/npm/v/@bhmarketer-ai/street-insider-faq-generator?style=flat-square&color=e05c1a&labelColor=1a1f3b)](https://www.npmjs.com/package/@bhmarketer-ai/street-insider-faq-generator)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23927754.svg)](https://doi.org/10.5281/zenodo.23927754)
 [![Docs](https://img.shields.io/badge/docs-readthedocs-e05c1a?style=flat-square&labelColor=1a1f3b)](https://bhmarketer-street-insider-faq-generator.readthedocs.io)
 [![Hugging Face](https://img.shields.io/badge/dataset-hugging%20face-e05c1a?style=flat-square&labelColor=1a1f3b)](https://huggingface.co/datasets/bhmarketer/street-insider-faq-dataset)
 [![License](https://img.shields.io/badge/license-MIT-8A8A8A?style=flat-square&labelColor=1a1f3b)](LICENSE)
@@ -237,7 +238,7 @@ BHMarketer.ai · Street Insider Press Release · Buy Press Release on Street Ins
 | Hugging Face | https://huggingface.co/datasets/bhmarketer/street-insider-faq-dataset |
 | Hugging Face profile | https://huggingface.co/bhmarketer |
 | Kaggle | https://www.kaggle.com/datasets/bhmarketer/street-insider-faq-dataset |
-| Zenodo | Add your DOI link after the first release |
+| Zenodo | https://doi.org/10.5281/zenodo.23927754 |
 | Docs | https://bhmarketer-street-insider-faq-generator.readthedocs.io |
 | LinkedIn | https://www.linkedin.com/company/bhmarketer-ai/ |
 | X | https://x.com/bhmarketer_com |
