@@ -1,0 +1,36 @@
+case_id,query,expected_id,expected_question,confidence,band
+1,what is this street insider service for,1,What is the purpose of the BHMarketer Street Insider distribution service?,100,Strong match
+2,who is bhmarketer,2,Who is BHMarketer?,100,Strong match
+3,what is streetinsider.com,4,What is Street Insider?,67,Good match
+4,where do i order a package,5,What are the official links to purchase these packages?,88,Strong match
+5,does it help my seo and google rankings,6,How does a Street Insider press release help my Google ranking (SEO)?,100,Strong match
+6,will chatgpt and perplexity mention my brand,7,Will BHMarketer help my business appear in AI search engines?,42,Possible match
+7,how many monthly visitors does street insider have,8,How much web traffic does Street Insider get?,75,Good match
+8,can it push down negative search results,9,Can Street Insider placements help with online reputation management (ORM)?,65,Good match
+9,are the backlinks dofollow,10,Are the links do-follow or nofollow?,100,Strong match
+10,how much does it cost,11,How much does a Street Insider press release cost through BHMarketer?,100,Strong match
+11,price of a street insider press release,11,How much does a Street Insider press release cost through BHMarketer?,100,Strong match
+12,are there hidden fees or a subscription,12,Are there any hidden upsells or recurring subscription fees?,100,Strong match
+13,what is included in the standard package,13,What do I get with the Standard Street Insider package?,67,Good match
+14,crypto press release package details,14,What do I get with the Crypto Press Release package?,75,Good match
+15,presale token launch package,15,What is included in the Crypto Presale package?,94,Strong match
+16,do i get a refund if it is not published,16,What is the refund policy if my press release fails to publish?,42,Possible match
+17,is it labeled as sponsored or an ad,17,Are these articles marked as sponsored content or ads?,58,Possible match
+18,can i send a hype sales pitch,18,Can I submit aggressive sales copy or promotional pitches?,63,Good match
+19,can you write the press release for me,19,Does BHMarketer write the press release for me?,100,Strong match
+20,what content gets rejected,20,What content is not allowed?,58,Possible match
+21,can i see a draft before it goes live,21,Can I review and change the copy before it goes live?,75,Good match
+22,how long does the standard package take,22,How long does the standard Street Insider package take to go live?,100,Strong match
+23,how quickly does a crypto release go live,23,How fast do the Crypto Press Release and Presale packages go live?,100,Strong match
+24,will it appear in google news,24,Will my article show up on Google News?,67,Good match
+25,how long will my article stay online,25,How long does a published article stay on the site?,94,Strong match
+26,can i schedule my release for a future date,26,Can I schedule a specific date and time for my launch?,75,Good match
+27,fix a typo after publishing,27,Can I fix a typo or change a link after the release goes live?,75,Good match
+28,i found a serious error after launch,28,What should I do if I spot a serious mistake after launch?,80,Good match
+29,can the article be removed later,29,Can a live article be deleted later if requested?,100,Strong match
+30,do i get a report with live links as proof,30,Do I get proof of my distribution?,81,Strong match
+31,how do i reach you on whatsapp,31,How can I contact the team quickly?,88,Strong match
+32,bulk agency discount,32,How do I submit an editorial brief or ask about bulk agency discounts?,100,Strong match
+33,can i track clicks with utm links,33,Can I track the traffic my links receive?,88,Strong match
+34,can i add my logo and a youtube video,34,"Can I include logos, images or videos?",69,Good match
+35,what other services do you offer,35,Where can I see all the services BHMarketer offers?,92,Strong match
