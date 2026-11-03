@@ -206,11 +206,11 @@ Standard Street Insider packages start from around $35 to $50, depending on the 
 
 | Repository | Description |
 |---|---|
-| [BHMarketer-FAQ-bot](https://github.com/bhmarketer-ai/BHMarketer-FAQ-bot) | FAQ bot answering questions from 50 official BHMarketer.ai FAQs |
 | [BHMarketer-Trustpilot-Removal-FAQ-Generator](https://github.com/bhmarketer-ai/BHMarketer-Trustpilot-Removal-FAQ-Generator) | Scores Trustpilot reviews for removal eligibility and generates a review removal FAQ |
 | [bhmarketer-crypto-pr](https://github.com/bhmarketer-ai/bhmarketer-crypto-pr) | Press release reach and AI visibility score calculator for blockchain and Web3 campaigns |
 | [google-negative-review-removal-audit-tool](https://github.com/bhmarketer-ai/google-negative-review-removal-audit-tool) | Scores Google reviews for policy-violation removal eligibility |
 | [review-removal-deindexing](https://github.com/bhmarketer-ai/review-removal-deindexing) | Reputation management toolkit for review removal, search result deindexing and brand protection |
+| [bhmarketer-ghostindex-bot](https://github.com/bhmarketer-ai/bhmarketer-ghostindex-bot) | Flags pages that may need deindexing: expired content, misinformation, policy violations |
 
 ## Keywords
 
