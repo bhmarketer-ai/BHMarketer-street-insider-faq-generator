@@ -1,6 +1,6 @@
 {
   "name": "@bhmarketer-ai/street-insider-faq-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BHMarketer Street Insider FAQ Generator: search 35 official Street Insider press release FAQs in plain English, get the best answer with a 0 to 100 confidence score, and generate the FAQ as Markdown, JSON, FAQPage JSON-LD or HTML.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
