@@ -1,0 +1,66 @@
+{
+  "title": "BHMarketer Street Insider FAQ Generator: Question Search and FAQ Schema Generation for Street Insider Press Releases",
+  "upload_type": "software",
+  "description": "The BHMarketer Street Insider FAQ Generator is a question search tool for BHMarketer.ai's Street Insider press release service. A user types a question in plain English and the tool returns the matching official answer from 35 FAQs with a match-confidence score from 0 to 100. It also generates the FAQ, in full or by category, as Markdown, JSON, FAQPage JSON-LD or HTML. Covers pricing (standard packages from around $35 to $50), editorial rules, timelines, Google News, SEO and AI search visibility, post-publication edits and support. Includes identical TypeScript (NPM) and Python implementations, a 35-entry FAQ dataset and a 35-question search benchmark. Not affiliated with Street Insider. Built by BHMarketer.ai.",
+  "creators": [
+    {
+      "name": "BHMarketer.ai"
+    }
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": [
+    "BHMarketer.ai",
+    "Street Insider",
+    "press release distribution",
+    "buy press release",
+    "crypto press release",
+    "FAQ generator",
+    "FAQ search",
+    "FAQPage schema",
+    "JSON-LD",
+    "AI search visibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://bhmarketer.ai/street-insider-press-releases/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://bhmarketer.ai/products/street-insider/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://bhmarketer.ai/products/street-insider-crypto-press-release/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://bhmarketer.ai/products/street-insider-crypto-presale/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/bhmarketer-ai/BHMarketer-street-insider-faq-generator",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.npmjs.com/package/@bhmarketer-ai/street-insider-faq-generator",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/bhmarketer/street-insider-faq-dataset",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.kaggle.com/datasets/bhmarketer/street-insider-faq-dataset",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    }
+  ]
+}

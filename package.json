@@ -1,0 +1,49 @@
+{
+  "name": "@bhmarketer-ai/street-insider-faq-generator",
+  "version": "1.0.0",
+  "description": "BHMarketer Street Insider FAQ Generator: search 35 official Street Insider press release FAQs in plain English, get the best answer with a 0 to 100 confidence score, and generate the FAQ as Markdown, JSON, FAQPage JSON-LD or HTML.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "si-faq": "dist/index.js"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "street-insider",
+    "streetinsider",
+    "press-release",
+    "press-release-distribution",
+    "crypto-press-release",
+    "faq-generator",
+    "faq-search",
+    "faq-schema",
+    "json-ld",
+    "bhmarketer",
+    "bhmarketer-ai"
+  ],
+  "homepage": "https://bhmarketer.ai/street-insider-press-releases/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhmarketer-ai/BHMarketer-street-insider-faq-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bhmarketer-ai/BHMarketer-street-insider-faq-generator/issues"
+  },
+  "author": "BHMarketer.ai",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0"
+  }
+}
