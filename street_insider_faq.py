@@ -22,7 +22,7 @@ import json
 import re
 import sys
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 WEBSITE = "https://bhmarketer.ai"
 SERVICE_PAGE = "https://bhmarketer.ai/street-insider-press-releases/"
